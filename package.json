@@ -34,7 +34,7 @@
     }
   },
   "dependencies": {
-    "mocha": "~1.20.0",
+    "mocha": "git+http://www.github.com/jut-io/mocha#1.20.1-jut-1",
     "hooker": "~0.2.3",
     "fs-extra": "~0.9.1"
   },
